@@ -9,3 +9,6 @@ int math_sub(int, int)
 {
 	return 0;
 }
+
+int rand() { return 0; }
+int nand() { return 0; }
